@@ -1,0 +1,3 @@
+[console_scripts]
+sensor_publisher = sensor_publisher_pkg.sensor_publisher_node:main
+

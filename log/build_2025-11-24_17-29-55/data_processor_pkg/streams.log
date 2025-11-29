@@ -1,0 +1,37 @@
+[0.297s] Invoking command in '/ws/src/data_processor_pkg': PYTHONPATH=/ws/build/data_processor_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/data_processor_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/data_processor_pkg build --build-base /ws/build/data_processor_pkg/build install --record /ws/build/data_processor_pkg/install.log --single-version-externally-managed install_data
+[0.407s] running egg_info
+[0.407s] creating ../../build/data_processor_pkg/data_processor_pkg.egg-info
+[0.407s] writing ../../build/data_processor_pkg/data_processor_pkg.egg-info/PKG-INFO
+[0.407s] writing dependency_links to ../../build/data_processor_pkg/data_processor_pkg.egg-info/dependency_links.txt
+[0.407s] writing entry points to ../../build/data_processor_pkg/data_processor_pkg.egg-info/entry_points.txt
+[0.407s] writing requirements to ../../build/data_processor_pkg/data_processor_pkg.egg-info/requires.txt
+[0.407s] writing top-level names to ../../build/data_processor_pkg/data_processor_pkg.egg-info/top_level.txt
+[0.407s] writing manifest file '../../build/data_processor_pkg/data_processor_pkg.egg-info/SOURCES.txt'
+[0.408s] reading manifest file '../../build/data_processor_pkg/data_processor_pkg.egg-info/SOURCES.txt'
+[0.409s] writing manifest file '../../build/data_processor_pkg/data_processor_pkg.egg-info/SOURCES.txt'
+[0.409s] running build
+[0.409s] running build_py
+[0.409s] creating /ws/build/data_processor_pkg/build
+[0.409s] creating /ws/build/data_processor_pkg/build/lib
+[0.409s] creating /ws/build/data_processor_pkg/build/lib/data_processor_pkg
+[0.409s] copying data_processor_pkg/data_processor_node.py -> /ws/build/data_processor_pkg/build/lib/data_processor_pkg
+[0.409s] copying data_processor_pkg/__init__.py -> /ws/build/data_processor_pkg/build/lib/data_processor_pkg
+[0.409s] running install
+[0.409s] running install_lib
+[0.409s] creating /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg
+[0.410s] copying /ws/build/data_processor_pkg/build/lib/data_processor_pkg/data_processor_node.py -> /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg
+[0.410s] copying /ws/build/data_processor_pkg/build/lib/data_processor_pkg/__init__.py -> /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg
+[0.410s] byte-compiling /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg/data_processor_node.py to data_processor_node.cpython-310.pyc
+[0.410s] byte-compiling /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg/__init__.py to __init__.cpython-310.pyc
+[0.410s] running install_data
+[0.410s] creating /ws/install/data_processor_pkg/share/ament_index
+[0.410s] creating /ws/install/data_processor_pkg/share/ament_index/resource_index
+[0.410s] creating /ws/install/data_processor_pkg/share/ament_index/resource_index/packages
+[0.410s] copying resource/data_processor_pkg -> /ws/install/data_processor_pkg/share/ament_index/resource_index/packages
+[0.411s] copying package.xml -> /ws/install/data_processor_pkg/share/data_processor_pkg
+[0.411s] running install_egg_info
+[0.412s] Copying ../../build/data_processor_pkg/data_processor_pkg.egg-info to /ws/install/data_processor_pkg/lib/python3.10/site-packages/data_processor_pkg-0.0.0-py3.10.egg-info
+[0.412s] running install_scripts
+[0.425s] Installing data_processor script to /ws/install/data_processor_pkg/lib/data_processor_pkg
+[0.426s] writing list of installed files to '/ws/build/data_processor_pkg/install.log'
+[0.441s] Invoked command in '/ws/src/data_processor_pkg' returned '0': PYTHONPATH=/ws/build/data_processor_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/data_processor_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/data_processor_pkg build --build-base /ws/build/data_processor_pkg/build install --record /ws/build/data_processor_pkg/install.log --single-version-externally-managed install_data

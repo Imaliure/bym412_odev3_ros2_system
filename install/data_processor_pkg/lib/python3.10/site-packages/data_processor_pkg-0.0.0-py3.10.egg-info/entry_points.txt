@@ -1,0 +1,3 @@
+[console_scripts]
+data_processor = data_processor_pkg.data_processor_node:main
+

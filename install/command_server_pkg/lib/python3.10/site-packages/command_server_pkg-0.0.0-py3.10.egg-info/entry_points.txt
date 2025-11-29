@@ -1,0 +1,3 @@
+[console_scripts]
+command_server = command_server_pkg.command_server_node:main
+

@@ -1,0 +1,21 @@
+[0.593s] Invoking command in '/ws/src/command_server_pkg': PYTHONPATH=/ws/build/command_server_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/command_server_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/command_server_pkg build --build-base /ws/build/command_server_pkg/build install --record /ws/build/command_server_pkg/install.log --single-version-externally-managed install_data
+[0.705s] running egg_info
+[0.705s] writing ../../build/command_server_pkg/command_server_pkg.egg-info/PKG-INFO
+[0.706s] writing dependency_links to ../../build/command_server_pkg/command_server_pkg.egg-info/dependency_links.txt
+[0.706s] writing entry points to ../../build/command_server_pkg/command_server_pkg.egg-info/entry_points.txt
+[0.706s] writing requirements to ../../build/command_server_pkg/command_server_pkg.egg-info/requires.txt
+[0.706s] writing top-level names to ../../build/command_server_pkg/command_server_pkg.egg-info/top_level.txt
+[0.707s] reading manifest file '../../build/command_server_pkg/command_server_pkg.egg-info/SOURCES.txt'
+[0.707s] writing manifest file '../../build/command_server_pkg/command_server_pkg.egg-info/SOURCES.txt'
+[0.707s] running build
+[0.707s] running build_py
+[0.707s] running install
+[0.708s] running install_lib
+[0.708s] running install_data
+[0.708s] running install_egg_info
+[0.710s] removing '/ws/install/command_server_pkg/lib/python3.10/site-packages/command_server_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.710s] Copying ../../build/command_server_pkg/command_server_pkg.egg-info to /ws/install/command_server_pkg/lib/python3.10/site-packages/command_server_pkg-0.0.0-py3.10.egg-info
+[0.710s] running install_scripts
+[0.725s] Installing command_server script to /ws/install/command_server_pkg/lib/command_server_pkg
+[0.726s] writing list of installed files to '/ws/build/command_server_pkg/install.log'
+[0.750s] Invoked command in '/ws/src/command_server_pkg' returned '0': PYTHONPATH=/ws/build/command_server_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/command_server_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/command_server_pkg build --build-base /ws/build/command_server_pkg/build install --record /ws/build/command_server_pkg/install.log --single-version-externally-managed install_data
